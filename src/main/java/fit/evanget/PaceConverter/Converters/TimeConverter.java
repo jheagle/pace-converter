@@ -1,4 +1,4 @@
-package fit.evanget.PaceConverter;
+package fit.evanget.PaceConverter.Converters;
 
 public class TimeConverter {
 
